@@ -1,0 +1,6 @@
+# Ignore node_modules, logs e dependências temporárias
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
