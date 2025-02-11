@@ -14,4 +14,4 @@ Examples of unacceptable behavior:
 - Publishing others’ private information without permission
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at [contato@leve.app.br].
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at rasrenato@gmail.com
